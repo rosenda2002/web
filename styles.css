@@ -1,0 +1,23 @@
+
+.selfie{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.selfpic1{
+    padding:7px;
+    width:65%;
+
+}
+div.selfpic1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px double;
+    border-bottom-color: red;
+    border-right-color: red;
+    border-top-color: rgb(9, 241, 48);
+    border-left-color: rgb(9, 241, 48);
+}
+
+
